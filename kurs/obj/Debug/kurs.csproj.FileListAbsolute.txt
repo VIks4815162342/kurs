@@ -1,0 +1,142 @@
+C:\Users\Компьютер\source\repos\kurs\kurs\bin\Debug\kurs.exe.config
+C:\Users\Компьютер\source\repos\kurs\kurs\bin\Debug\kurs.exe
+C:\Users\Компьютер\source\repos\kurs\kurs\bin\Debug\kurs.pdb
+C:\Users\Компьютер\source\repos\kurs\kurs\obj\Debug\kurs.csprojAssemblyReference.cache
+C:\Users\Компьютер\source\repos\kurs\kurs\obj\Debug\kurs.MDIParent1.resources
+C:\Users\Компьютер\source\repos\kurs\kurs\obj\Debug\kurs.Properties.Resources.resources
+C:\Users\Компьютер\source\repos\kurs\kurs\obj\Debug\kurs.csproj.GenerateResource.cache
+C:\Users\Компьютер\source\repos\kurs\kurs\obj\Debug\kurs.csproj.CoreCompileInputs.cache
+C:\Users\Компьютер\source\repos\kurs\kurs\obj\Debug\kurs.exe
+C:\Users\Компьютер\source\repos\kurs\kurs\obj\Debug\kurs.pdb
+C:\Users\Компьютер\source\repos\kurs\kurs\obj\Debug\kurs.Form1.resources
+C:\Users\Компьютер\source\repos\kurs\kurs\obj\Debug\kurs.Form2.resources
+C:\Users\Компьютер\source\repos\kurs\kurs\obj\Debug\kurs.Form3.resources
+C:\Users\Компьютер\source\repos\kurs\kurs\obj\Debug\kurs.Form4.resources
+C:\Users\Компьютер\source\repos\kurs\kurs\obj\Debug\kurs.Form5.resources
+C:\Users\Компьютер\source\repos\kurs\kurs\obj\Debug\kurs.Form6.resources
+C:\Users\Компьютер\source\repos\kurs\kurs\obj\Debug\kurs.Form7.resources
+C:\Users\Компьютер\source\repos\kurs\kurs\obj\Debug\kurs.Form8.resources
+C:\Users\Компьютер\source\repos\kurs\kurs\obj\Debug\kurs.Form9.resources
+C:\Users\Компьютер\source\repos\kurs\kurs\obj\Debug\kurs.Form10.resources
+C:\Users\Компьютер\source\repos\kurs\kurs\obj\Debug\kurs.Form11.resources
+C:\Users\Компьютер\Desktop\курсач\kurs\kurs\bin\Debug\kurs.exe.config
+C:\Users\Компьютер\Desktop\курсач\kurs\kurs\bin\Debug\kurs.exe
+C:\Users\Компьютер\Desktop\курсач\kurs\kurs\bin\Debug\kurs.pdb
+C:\Users\Компьютер\Desktop\курсач\kurs\kurs\obj\Debug\kurs.csprojAssemblyReference.cache
+C:\Users\Компьютер\Desktop\курсач\kurs\kurs\obj\Debug\kurs.Form1.resources
+C:\Users\Компьютер\Desktop\курсач\kurs\kurs\obj\Debug\kurs.Form10.resources
+C:\Users\Компьютер\Desktop\курсач\kurs\kurs\obj\Debug\kurs.Form11.resources
+C:\Users\Компьютер\Desktop\курсач\kurs\kurs\obj\Debug\kurs.Form2.resources
+C:\Users\Компьютер\Desktop\курсач\kurs\kurs\obj\Debug\kurs.Form3.resources
+C:\Users\Компьютер\Desktop\курсач\kurs\kurs\obj\Debug\kurs.Form4.resources
+C:\Users\Компьютер\Desktop\курсач\kurs\kurs\obj\Debug\kurs.Form5.resources
+C:\Users\Компьютер\Desktop\курсач\kurs\kurs\obj\Debug\kurs.Form6.resources
+C:\Users\Компьютер\Desktop\курсач\kurs\kurs\obj\Debug\kurs.Form7.resources
+C:\Users\Компьютер\Desktop\курсач\kurs\kurs\obj\Debug\kurs.Form8.resources
+C:\Users\Компьютер\Desktop\курсач\kurs\kurs\obj\Debug\kurs.Form9.resources
+C:\Users\Компьютер\Desktop\курсач\kurs\kurs\obj\Debug\kurs.MDIParent1.resources
+C:\Users\Компьютер\Desktop\курсач\kurs\kurs\obj\Debug\kurs.Properties.Resources.resources
+C:\Users\Компьютер\Desktop\курсач\kurs\kurs\obj\Debug\kurs.csproj.GenerateResource.cache
+C:\Users\Компьютер\Desktop\курсач\kurs\kurs\obj\Debug\kurs.csproj.CoreCompileInputs.cache
+C:\Users\Компьютер\Desktop\курсач\kurs\kurs\obj\Debug\kurs.exe
+C:\Users\Компьютер\Desktop\курсач\kurs\kurs\obj\Debug\kurs.pdb
+D:\ФайлысЖД\Учеба\5 семестр\СУБД\курсач\KURSACH\kurs\kurs\bin\Debug\kurs.exe.config
+D:\ФайлысЖД\Учеба\5 семестр\СУБД\курсач\KURSACH\kurs\kurs\bin\Debug\kurs.exe
+D:\ФайлысЖД\Учеба\5 семестр\СУБД\курсач\KURSACH\kurs\kurs\bin\Debug\kurs.pdb
+D:\ФайлысЖД\Учеба\5 семестр\СУБД\курсач\KURSACH\kurs\kurs\obj\Debug\kurs.csprojAssemblyReference.cache
+D:\ФайлысЖД\Учеба\5 семестр\СУБД\курсач\KURSACH\kurs\kurs\obj\Debug\kurs.Form1.resources
+D:\ФайлысЖД\Учеба\5 семестр\СУБД\курсач\KURSACH\kurs\kurs\obj\Debug\kurs.Form10.resources
+D:\ФайлысЖД\Учеба\5 семестр\СУБД\курсач\KURSACH\kurs\kurs\obj\Debug\kurs.Form11.resources
+D:\ФайлысЖД\Учеба\5 семестр\СУБД\курсач\KURSACH\kurs\kurs\obj\Debug\kurs.Form2.resources
+D:\ФайлысЖД\Учеба\5 семестр\СУБД\курсач\KURSACH\kurs\kurs\obj\Debug\kurs.Form3.resources
+D:\ФайлысЖД\Учеба\5 семестр\СУБД\курсач\KURSACH\kurs\kurs\obj\Debug\kurs.Form4.resources
+D:\ФайлысЖД\Учеба\5 семестр\СУБД\курсач\KURSACH\kurs\kurs\obj\Debug\kurs.Form5.resources
+D:\ФайлысЖД\Учеба\5 семестр\СУБД\курсач\KURSACH\kurs\kurs\obj\Debug\kurs.Form6.resources
+D:\ФайлысЖД\Учеба\5 семестр\СУБД\курсач\KURSACH\kurs\kurs\obj\Debug\kurs.Form7.resources
+D:\ФайлысЖД\Учеба\5 семестр\СУБД\курсач\KURSACH\kurs\kurs\obj\Debug\kurs.Form8.resources
+D:\ФайлысЖД\Учеба\5 семестр\СУБД\курсач\KURSACH\kurs\kurs\obj\Debug\kurs.Form9.resources
+D:\ФайлысЖД\Учеба\5 семестр\СУБД\курсач\KURSACH\kurs\kurs\obj\Debug\kurs.MDIParent1.resources
+D:\ФайлысЖД\Учеба\5 семестр\СУБД\курсач\KURSACH\kurs\kurs\obj\Debug\kurs.Properties.Resources.resources
+D:\ФайлысЖД\Учеба\5 семестр\СУБД\курсач\KURSACH\kurs\kurs\obj\Debug\kurs.csproj.GenerateResource.cache
+D:\ФайлысЖД\Учеба\5 семестр\СУБД\курсач\KURSACH\kurs\kurs\obj\Debug\kurs.csproj.CoreCompileInputs.cache
+D:\ФайлысЖД\Учеба\5 семестр\СУБД\курсач\KURSACH\kurs\kurs\obj\Debug\kurs.exe
+D:\ФайлысЖД\Учеба\5 семестр\СУБД\курсач\KURSACH\kurs\kurs\obj\Debug\kurs.pdb
+D:\ФайлысЖД\Учеба\5 семестр\СУБД\курсач\KURSACH\kurs\kurs\obj\Debug\kurs.Form12.resources
+C:\Users\babee\OneDrive\Desktop\KURSACH\kurs\kurs\bin\Debug\kurs.exe.config
+C:\Users\babee\OneDrive\Desktop\KURSACH\kurs\kurs\bin\Debug\kurs.exe
+C:\Users\babee\OneDrive\Desktop\KURSACH\kurs\kurs\bin\Debug\kurs.pdb
+C:\Users\babee\OneDrive\Desktop\KURSACH\kurs\kurs\obj\Debug\kurs.csprojAssemblyReference.cache
+C:\Users\babee\OneDrive\Desktop\KURSACH\kurs\kurs\obj\Debug\kurs.Form1.resources
+C:\Users\babee\OneDrive\Desktop\KURSACH\kurs\kurs\obj\Debug\kurs.Form10.resources
+C:\Users\babee\OneDrive\Desktop\KURSACH\kurs\kurs\obj\Debug\kurs.Form11.resources
+C:\Users\babee\OneDrive\Desktop\KURSACH\kurs\kurs\obj\Debug\kurs.Form12.resources
+C:\Users\babee\OneDrive\Desktop\KURSACH\kurs\kurs\obj\Debug\kurs.Form2.resources
+C:\Users\babee\OneDrive\Desktop\KURSACH\kurs\kurs\obj\Debug\kurs.Form3.resources
+C:\Users\babee\OneDrive\Desktop\KURSACH\kurs\kurs\obj\Debug\kurs.Form4.resources
+C:\Users\babee\OneDrive\Desktop\KURSACH\kurs\kurs\obj\Debug\kurs.Form5.resources
+C:\Users\babee\OneDrive\Desktop\KURSACH\kurs\kurs\obj\Debug\kurs.Form6.resources
+C:\Users\babee\OneDrive\Desktop\KURSACH\kurs\kurs\obj\Debug\kurs.Form7.resources
+C:\Users\babee\OneDrive\Desktop\KURSACH\kurs\kurs\obj\Debug\kurs.Form8.resources
+C:\Users\babee\OneDrive\Desktop\KURSACH\kurs\kurs\obj\Debug\kurs.Form9.resources
+C:\Users\babee\OneDrive\Desktop\KURSACH\kurs\kurs\obj\Debug\kurs.MDIParent1.resources
+C:\Users\babee\OneDrive\Desktop\KURSACH\kurs\kurs\obj\Debug\kurs.Properties.Resources.resources
+C:\Users\babee\OneDrive\Desktop\KURSACH\kurs\kurs\obj\Debug\kurs.csproj.GenerateResource.cache
+C:\Users\babee\OneDrive\Desktop\KURSACH\kurs\kurs\obj\Debug\kurs.exe
+C:\Users\babee\OneDrive\Desktop\KURSACH\kurs\kurs\obj\Debug\kurs.pdb
+C:\Users\babee\OneDrive\Desktop\KURSACH\kurs\kurs\obj\Debug\kurs.Form13.resources
+C:\Users\babee\OneDrive\Desktop\KURSACH\kurs\kurs\obj\Debug\kurs.csproj.CoreCompileInputs.cache
+C:\Users\babee\OneDrive\Desktop\KURSACH\kurs\kurs\obj\Debug\kurs.Form14.resources
+D:\ФайлысЖД\Учеба\5 семестр\СУБД\KURSACH\kurs\kurs\bin\Debug\kurs.exe.config
+D:\ФайлысЖД\Учеба\5 семестр\СУБД\KURSACH\kurs\kurs\bin\Debug\kurs.exe
+D:\ФайлысЖД\Учеба\5 семестр\СУБД\KURSACH\kurs\kurs\bin\Debug\kurs.pdb
+D:\ФайлысЖД\Учеба\5 семестр\СУБД\KURSACH\kurs\kurs\obj\Debug\kurs.csprojAssemblyReference.cache
+D:\ФайлысЖД\Учеба\5 семестр\СУБД\KURSACH\kurs\kurs\obj\Debug\kurs.Form1.resources
+D:\ФайлысЖД\Учеба\5 семестр\СУБД\KURSACH\kurs\kurs\obj\Debug\kurs.Form10.resources
+D:\ФайлысЖД\Учеба\5 семестр\СУБД\KURSACH\kurs\kurs\obj\Debug\kurs.Form11.resources
+D:\ФайлысЖД\Учеба\5 семестр\СУБД\KURSACH\kurs\kurs\obj\Debug\kurs.Form12.resources
+D:\ФайлысЖД\Учеба\5 семестр\СУБД\KURSACH\kurs\kurs\obj\Debug\kurs.Form13.resources
+D:\ФайлысЖД\Учеба\5 семестр\СУБД\KURSACH\kurs\kurs\obj\Debug\kurs.Form14.resources
+D:\ФайлысЖД\Учеба\5 семестр\СУБД\KURSACH\kurs\kurs\obj\Debug\kurs.Form2.resources
+D:\ФайлысЖД\Учеба\5 семестр\СУБД\KURSACH\kurs\kurs\obj\Debug\kurs.Form3.resources
+D:\ФайлысЖД\Учеба\5 семестр\СУБД\KURSACH\kurs\kurs\obj\Debug\kurs.Form4.resources
+D:\ФайлысЖД\Учеба\5 семестр\СУБД\KURSACH\kurs\kurs\obj\Debug\kurs.Form5.resources
+D:\ФайлысЖД\Учеба\5 семестр\СУБД\KURSACH\kurs\kurs\obj\Debug\kurs.Form6.resources
+D:\ФайлысЖД\Учеба\5 семестр\СУБД\KURSACH\kurs\kurs\obj\Debug\kurs.Form7.resources
+D:\ФайлысЖД\Учеба\5 семестр\СУБД\KURSACH\kurs\kurs\obj\Debug\kurs.Form8.resources
+D:\ФайлысЖД\Учеба\5 семестр\СУБД\KURSACH\kurs\kurs\obj\Debug\kurs.Form9.resources
+D:\ФайлысЖД\Учеба\5 семестр\СУБД\KURSACH\kurs\kurs\obj\Debug\kurs.MDIParent1.resources
+D:\ФайлысЖД\Учеба\5 семестр\СУБД\KURSACH\kurs\kurs\obj\Debug\kurs.Properties.Resources.resources
+D:\ФайлысЖД\Учеба\5 семестр\СУБД\KURSACH\kurs\kurs\obj\Debug\kurs.csproj.GenerateResource.cache
+D:\ФайлысЖД\Учеба\5 семестр\СУБД\KURSACH\kurs\kurs\obj\Debug\kurs.csproj.CoreCompileInputs.cache
+D:\ФайлысЖД\Учеба\5 семестр\СУБД\KURSACH\kurs\kurs\obj\Debug\kurs.exe
+D:\ФайлысЖД\Учеба\5 семестр\СУБД\KURSACH\kurs\kurs\obj\Debug\kurs.pdb
+D:\ФайлысЖД\Учеба\5 семестр\СУБД\KURSACH\kurs\kurs\obj\Debug\kurs.Form15.resources
+D:\ФайлысЖД\Учеба\5 семестр\СУБД\KURSACH\kurs\kurs\obj\Debug\kurs.Form16.resources
+D:\ФайлысЖД\Учеба\5 семестр\СУБД\KURSACH\kurs\kurs\obj\Debug\kurs.Form17.resources
+D:\ФайлысЖД\Учеба\5 семестр\KURSACH\kurs\kurs\bin\Debug\kurs.exe.config
+D:\ФайлысЖД\Учеба\5 семестр\KURSACH\kurs\kurs\bin\Debug\kurs.exe
+D:\ФайлысЖД\Учеба\5 семестр\KURSACH\kurs\kurs\bin\Debug\kurs.pdb
+D:\ФайлысЖД\Учеба\5 семестр\KURSACH\kurs\kurs\obj\Debug\kurs.csprojAssemblyReference.cache
+D:\ФайлысЖД\Учеба\5 семестр\KURSACH\kurs\kurs\obj\Debug\kurs.Form1.resources
+D:\ФайлысЖД\Учеба\5 семестр\KURSACH\kurs\kurs\obj\Debug\kurs.Form10.resources
+D:\ФайлысЖД\Учеба\5 семестр\KURSACH\kurs\kurs\obj\Debug\kurs.Form11.resources
+D:\ФайлысЖД\Учеба\5 семестр\KURSACH\kurs\kurs\obj\Debug\kurs.Form12.resources
+D:\ФайлысЖД\Учеба\5 семестр\KURSACH\kurs\kurs\obj\Debug\kurs.Form13.resources
+D:\ФайлысЖД\Учеба\5 семестр\KURSACH\kurs\kurs\obj\Debug\kurs.Form14.resources
+D:\ФайлысЖД\Учеба\5 семестр\KURSACH\kurs\kurs\obj\Debug\kurs.Form15.resources
+D:\ФайлысЖД\Учеба\5 семестр\KURSACH\kurs\kurs\obj\Debug\kurs.Form16.resources
+D:\ФайлысЖД\Учеба\5 семестр\KURSACH\kurs\kurs\obj\Debug\kurs.Form17.resources
+D:\ФайлысЖД\Учеба\5 семестр\KURSACH\kurs\kurs\obj\Debug\kurs.Form2.resources
+D:\ФайлысЖД\Учеба\5 семестр\KURSACH\kurs\kurs\obj\Debug\kurs.Form3.resources
+D:\ФайлысЖД\Учеба\5 семестр\KURSACH\kurs\kurs\obj\Debug\kurs.Form4.resources
+D:\ФайлысЖД\Учеба\5 семестр\KURSACH\kurs\kurs\obj\Debug\kurs.Form5.resources
+D:\ФайлысЖД\Учеба\5 семестр\KURSACH\kurs\kurs\obj\Debug\kurs.Form6.resources
+D:\ФайлысЖД\Учеба\5 семестр\KURSACH\kurs\kurs\obj\Debug\kurs.Form7.resources
+D:\ФайлысЖД\Учеба\5 семестр\KURSACH\kurs\kurs\obj\Debug\kurs.Form8.resources
+D:\ФайлысЖД\Учеба\5 семестр\KURSACH\kurs\kurs\obj\Debug\kurs.Form9.resources
+D:\ФайлысЖД\Учеба\5 семестр\KURSACH\kurs\kurs\obj\Debug\kurs.MDIParent1.resources
+D:\ФайлысЖД\Учеба\5 семестр\KURSACH\kurs\kurs\obj\Debug\kurs.Properties.Resources.resources
+D:\ФайлысЖД\Учеба\5 семестр\KURSACH\kurs\kurs\obj\Debug\kurs.csproj.GenerateResource.cache
+D:\ФайлысЖД\Учеба\5 семестр\KURSACH\kurs\kurs\obj\Debug\kurs.csproj.CoreCompileInputs.cache
+D:\ФайлысЖД\Учеба\5 семестр\KURSACH\kurs\kurs\obj\Debug\kurs.exe
+D:\ФайлысЖД\Учеба\5 семестр\KURSACH\kurs\kurs\obj\Debug\kurs.pdb
